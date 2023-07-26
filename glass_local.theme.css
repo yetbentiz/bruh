@@ -38,7 +38,7 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     /*
     opacity, but lighter
     default : 0.2 */
-    --light-opacity: 0.1;
+    --light-opacity: 0.2;
     /*
     opacity used everywhere to make this glass effect 
     default : 0.5 */
@@ -46,7 +46,7 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     /*
     opacity, but darker
     default : 0.75 */
-    --dark-opacity: 0.9;
+    --dark-opacity: 0.75;
     /*
     it's just the Discord background URL, it has to be a direct link (ending with .png, .jpg, .gif)
     default : url('https://cdn.discordapp.com/attachments/696040243748536401/850445513542205531/1-IrFMpUu.png') */
