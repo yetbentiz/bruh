@@ -38,11 +38,11 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     /*
     opacity, but lighter
     default : 0.2 */
-    --light-opacity: 0.05;
+    --light-opacity: 0.1;
     /*
     opacity used everywhere to make this glass effect 
     default : 0.5 */
-    --opacity: 0.08;
+    --opacity: 0.15;
     /*
     opacity, but darker
     default : 0.75 */
